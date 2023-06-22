@@ -18,5 +18,3 @@ Or send me an [e-mail](mailto:me@souzagab.com).
 
 
 Have a nice day :wave:
-
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzagab&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=css&layout=compact"/>
